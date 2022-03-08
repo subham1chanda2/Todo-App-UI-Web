@@ -1,0 +1,71 @@
+.head{
+    margin-left: 170px;
+}
+.box{
+    height: 300px;
+    width: 200px;
+    border: 2px solid red;
+    display: inline-block;
+    margin: 10px 140px 140px 140px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: large;
+    color:red;
+    box-shadow: 12px 7px 7px  gray;
+}
+.checkbox{
+    color: black;
+}
+h1,h2{
+    display: inline-block;
+}
+h3{
+    display: inline-block;
+}
+.add{
+    text-align: center;
+    padding-top: 250px;
+    padding-left: 600px;
+}
+.add1{
+    height: 140px;
+    width: 260px;
+    border: 2px solid red;
+    border-radius: 10px;
+    color: red
+}
+button{
+    background-color: red;
+    border-radius: 12px;
+    padding: none 10px none 10px;
+    color: wheat;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+.index3{
+    text-align: center;
+}
+.add_list{
+    margin-left: 870px;
+}
+.c_gray{
+    color: gray;
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cross{
+    text-decoration: line-through;
+}
+.horizon{
+    text-align: right;
+    width: 150px;
+}
+.plus{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.top{
+    width: 150px;
+    display: inline-block;
+}
